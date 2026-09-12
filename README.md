@@ -5,6 +5,6 @@
 
   # EvoLacLab's Website
 
-  Visit **[website URL](#)** 🚀
+  Visit **[evolaclab.github.io](https://evolaclab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
