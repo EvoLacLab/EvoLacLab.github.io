@@ -1,9 +1,9 @@
 ---
 ---
 
-# EvoLacLab's Website
+# Evolutionary Lactation Lab
 
-An engaging 1-3 sentence description of your lab.
+The Evolutionary Lactation Lab studies the evolution of lactation across species, combining comparative biology with collaborations at zoos and conservation organizations to advance our understanding of milk composition and mammalian reproduction.
 
 {% include section.html %}
 
