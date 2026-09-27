@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-{% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 Research programme investigates sex-specific developmental programming through maternal milk biology, combining human cohort data with a unique comparative animal model — the Asian elephant — to understand how environmental stressors and deprivation interact with offspring sex to shape lifelong health trajectories for mothers and babies.
 
