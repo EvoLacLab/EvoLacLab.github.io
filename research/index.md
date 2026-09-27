@@ -11,9 +11,9 @@ Research programme investigates sex-specific developmental programming through m
 
 {% include section.html %}
 
+{% comment %}
 ## Highlighted
 
-{% comment %}
 Per evidenziare un lavoro specifico in questa sezione, sostituire "TITOLO DELLO STUDIO" con il titolo esatto di una pubblicazione già presente nell'elenco sottostante (deve corrispondere parola per parola).
 {% include citation.html lookup="TITOLO DELLO STUDIO" style="rich" %}
 {% endcomment %}
