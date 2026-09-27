@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@EvoLacLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: laura.galante@swansea.ac.uk
+  orcid: 0000-0002-6190-7955
+  google-scholar: dtLQ_YoAAAAJ&hl
   github: EvoLacLab
-  twitter: EvoLacLab
-  youtube: EvoLacLab
+  # twitter: EvoLacLab
+  # youtube: EvoLacLab
 
 ### jekyll settings
 
