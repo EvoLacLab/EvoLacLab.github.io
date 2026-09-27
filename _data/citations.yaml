@@ -263,3 +263,18 @@
   orcid: 0000-0002-6190-7955
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3945/ajcn.115.128728
+  title: "Consumption of a flavonoid-rich a\xE7ai meal is associated with acute improvements\
+    \ in vascular function and a reduction in total oxidative status in healthy overweight\
+    \ men"
+  authors:
+  - Randah M Alqurashi
+  - Laura A Galante
+  - Ian R Rowland
+  - Jeremy PE Spencer
+  - Daniel M Commane
+  publisher: The American Journal of Clinical Nutrition
+  date: '2016-11-01'
+  link: https://doi.org/f89hxc
+  plugin: sources.py
+  file: sources.yaml
