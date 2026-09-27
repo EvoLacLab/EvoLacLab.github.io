@@ -11,7 +11,7 @@ The Evolutionary Lactation Lab studies the evolution of lactation across species
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Research programme aims at investigating sex-specific developmental programming through maternal milk biology. The programme combines human cohort data and my unique comparative animal model (the Asian elephant) to understand how environmental stressors and deprivation interact with offspring sex to shape lifelong health trajectories for mothers and babies. Through this approach I am particularly committed to translate research findings in applied interventions and diagnostic tools to improve breastfeeding and health outcomes in marginalised and deprived communities.
 
 {%
   include button.html
