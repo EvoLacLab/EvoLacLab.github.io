@@ -5,16 +5,18 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+{% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Research programme investigates sex-specific developmental programming through maternal milk biology, combining human cohort data with a unique comparative animal model — the Asian elephant — to understand how environmental stressors and deprivation interact with offspring sex to shape lifelong health trajectories for mothers and babies.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% comment %}
+Per evidenziare un lavoro specifico in questa sezione, sostituire "TITOLO DELLO STUDIO" con il titolo esatto di una pubblicazione già presente nell'elenco sottostante (deve corrispondere parola per parola).
+{% include citation.html lookup="TITOLO DELLO STUDIO" style="rich" %}
+{% endcomment %}
 
 {% include section.html %}
 
