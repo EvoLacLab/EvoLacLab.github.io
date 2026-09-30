@@ -3,8 +3,8 @@ name: Laura Galante
 image: images/laura-galante.jpg
 role: principal-investigator
 affiliation: Swansea University
-aliases:
-  - L. Galante
+<!-- aliases:
+  - L. Galante -->
 links:
   email: laura.galante@swansea.ac.uk
   orcid: 0000-0002-6190-7955
