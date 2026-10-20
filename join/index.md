@@ -72,11 +72,7 @@ Applications will remain open until suitable candidates are identified. Applicat
 
 ## MilkINESS Study: we are hiring
 
-{% capture content %}
-
-{% include figure.html image="images/milkiness-flyer-en.jpg" caption="English flyer" %}
-{% include figure.html image="images/milkiness-flyer-jp.jpg" caption="日本語版" %}
-
-{% endcapture %}
-
-{% include grid.html content=content %}
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+  <img src="{{ 'images/milkiness-flyer-en.jpg' | relative_url }}" alt="MilkINESS Study hiring flyer (English)" style="max-width:480px; width:100%; height:auto;">
+  <img src="{{ 'images/milkiness-flyer-jp.jpg' | relative_url }}" alt="MilkINESS Study hiring flyer (Japanese)" style="max-width:480px; width:100%; height:auto;">
+</div>
