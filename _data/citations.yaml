@@ -254,15 +254,6 @@
   orcid: 0000-0002-6190-7955
   plugin: orcid.py
   file: orcid.yaml
-- title: "Consumption of a flavonoid-rich a\xE7ai meal is associated with acute improvements\
-    \ in vascular function and a reduction in total oxidative status in healthy overweight\
-    \ men."
-  publisher: American Journal of Clinical Nutrition
-  date: '2026-10-08'
-  link: https://www.sciencedirect.com/science/article/pii/S0002916522046548?via%3Dihub
-  orcid: 0000-0002-6190-7955
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.3945/ajcn.115.128728
   title: "Consumption of a flavonoid-rich a\xE7ai meal is associated with acute improvements\
     \ in vascular function and a reduction in total oxidative status in healthy overweight\
@@ -276,5 +267,6 @@
   publisher: The American Journal of Clinical Nutrition
   date: '2016-11-01'
   link: https://doi.org/f89hxc
+  orcid: 0000-0002-6190-7955
   plugin: sources.py
   file: sources.yaml
