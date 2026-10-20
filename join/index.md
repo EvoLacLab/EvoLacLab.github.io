@@ -63,6 +63,7 @@ We are looking for a graduate-level Research Technician to join the MilkINESS st
 {% comment %} 
 {% include section.html background="images/background.jpg" dark=true %}
 {% end comment %}
+{% include section.html %}
 
 ## How to apply
 
