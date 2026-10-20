@@ -268,5 +268,5 @@
   date: '2016-11-01'
   link: https://doi.org/f89hxc
   orcid: 0000-0002-6190-7955
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
