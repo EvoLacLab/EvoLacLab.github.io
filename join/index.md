@@ -60,7 +60,9 @@ We are looking for a graduate-level Research Technician to join the MilkINESS st
 - High level of precision and ability to follow detailed Standard Operating Procedures (SOPs).
 - Team player with excellent communication skills.
 
+{% comment %} 
 {% include section.html background="images/background.jpg" dark=true %}
+{% end comment %}
 
 ## How to apply
 
