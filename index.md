@@ -44,11 +44,11 @@ Visit our research page to read about our previous research and findings that le
 
 {% capture text %}
 
-MilkINESS — Milk, Parental Investment and Sexual Selection 
+**MilkINESS — Milk, Parental Investment and Sexual Selection**
 
 Why do some mothers struggle to produce enough milk while others do not? MilkINESS investigates how different forms of socio-environmental stress and deprivation shape breastfeeding behaviour, lactation physiology and milk composition, with particular attention to the sex of the offspring. The project also examines whether diagnostic tools for lactation problems are feasible and useful in clinical practice. Two human cohorts are currently being recruited: mothers seeking sanctuary in Wales, together with a comparison group, and mothers experiencing high work-to-family conflict in Japan, again with a comparison group. We are continually exploring new settings in which suboptimal living conditions affect mothers,  and would love to hear from anyone that has new ideas and/or access to additional deprivation settings. 
 
-EMERALD — Evaluating Milk Replacements for Hand-Reared Asian Elephants 
+**EMERALD — Evaluating Milk Replacements for Hand-Reared Asian Elephants**
 
 Orphaned Asian elephant calves raised by hand frequently die from malnutrition, yet the milk replacers used to feed them have never been systematically compared with the milk their mothers produce. EMERALD will deliver the first metabolomic profiling of both maternal Asian elephant milk and the commercially available replacers used in captivity. Mapping the two against each other will show precisely where replacers fall short of maternal milk, informing evidence-based nutrition protocols and improving welfare for this endangered species. 
 
